@@ -2,7 +2,7 @@ class Javaprog {
 
 public static void main(String[] args){
 
-System.out.println("Hellow There!");
+System.out.println("Hello There!");
 
 }
 
